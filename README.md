@@ -21,3 +21,11 @@ Nowadays, there is a type of shopping called online shopping that allows for the
 Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm Visual Paradigm.
 
 The first thing we download WordPress, we log in. After logging into WordPress, you will see the home page, which has nothing. Everything we have to create ourselves. When we want to download We went to download WordPress, the important thing is our website page. When creating our web page there are two options to choose from. The first way is to create it from scratch. The second way is to find someone else's theme and change it to your website. We will choose the theme of Coffee Block version 1.0 by SKT Themes. The website page that we choose will be a website about coffee beans and providing knowledge about coffee beans. His website was similar to our idea so we changed it to ours to make a website selling watches. After that, we can decorate our website however we want. We use them to create a more complete website, after which we choose the plugins we want to use. Plugins work to make your website more efficient than before.
+
+# Wedsite Overview
+![Digram img](img/1.png)
+![Digram img](img/2.png)
+![Digram img](img/3.png)
+![Digram img](img/4.png)
+![Digram img](img/5.png)
+![Digram img](img/6.png)
