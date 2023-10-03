@@ -32,7 +32,7 @@ The first thing we download WordPress, we log in. After logging into WordPress, 
 ![Digram img](img/7.png)
 
 # BPMN Diagram
-![Digram img](img/a.png)
+![Digram img](img/11.png)
 This diagram of our BPMN shows the process of our e-commerce website. It presents important coordination or interactions and processes or procedures. About online trading It will make the launch of our online platform more experience or user friendly.
 
 ### All Pools in BPMN
@@ -42,7 +42,7 @@ This diagram of our BPMN shows the process of our e-commerce website. It present
 - Delivery
 
   ## Customer pool
-  ![Digram img](img/b.png)
+  ![Digram img](img/22.png)
 - customer process Starting with a green dot It marks the beginning of the customer journey on the platform.
 - Find products: Customers will find products that they are interested in purchasing.
 - Select Product: Customers select the products they want.
@@ -50,18 +50,18 @@ Add product to cart: After the customer has added the product to the cart. If th
 - Payment process: Payment of the product selected by the customer. There will be a payment process. The customer must fill in customer information, including the customer's address, phone number, and other things in order to deliver the product to the customer.
 - Payment process or procedure: There will be 2 methods as two options. The first method is to transfer money via mobile phone called pay online. The second method of paying in cash is called cash on delivery. This way, we pay when our product arrives at our hands, which we do through thousands of couriers.
  ## Website pool
-   ![Digram img](img/c.png)
+   ![Digram img](img/33.png)
 - Waiting to receive orders from children in order to check slips or check customer slips.
 - Receive slip: Check slip and confirm your order. This process when checking money withdrawals The customer payment division is correct. It will go into stock inspection and if there are any errors it will be canceled immediately.
 - Collect customer information: It is responsible for collecting customer information from every person who comes to use the service. When a customer has a problem, we will have information to inform that customer.
 - Collect ordering information: serves to collect information from customers who have ordered products with us.
  ## Admin pool
-  ![Digram img](img/d.png)
+  ![Digram img](img/44.png)
 - Confirm customer orders before arranging for delivery to the courier company.
 - Customer information and customer slips will be checked for accuracy before taking the package to the courier company.
 - Prepare to deliver customer products to the parcel delivery company.
  ## Delivery pool
-   ![Digram img](img/e.png)
+   ![Digram img](img/55.png)
 - Will receive products to put the products of the sender into the system and update.
 - The system has successfully verified the product in the system and a parcel number will be sent.
 - The parcel will be delivered to the customer. At that time there will be an update on the customer's products.
