@@ -26,7 +26,8 @@ The first thing we download WordPress, we log in. After logging into WordPress, 
 ![Digram img](img/1.png)
 ![Digram img](img/2.png)
 ![Digram img](img/3.png)
-![Digram img](img/7.png)
+
+
 
 # BPMN Diagram
 ![Digram img](img/11.png)
@@ -52,6 +53,7 @@ Add product to cart: After the customer has added the product to the cart. If th
 - Payment process: Payment of the product selected by the customer. There will be a payment process. The customer must fill in customer information, including the customer's address, phone number, and other things in order to deliver the product to the customer.
 ![Digram img](img/9.png)
 - Payment process or procedure: There will be 2 methods as two options. The first method is to transfer money via mobile phone called pay online. The second method of paying in cash is called cash on delivery. This way, we pay when our product arrives at our hands, which we do through thousands of couriers.
+![Digram img](img/10.png)
  ## Website pool
    ![Digram img](img/33.png)
 - Product information: We will take care of product information within the website and all products.
