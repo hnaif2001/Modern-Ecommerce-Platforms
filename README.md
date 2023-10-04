@@ -48,7 +48,9 @@ This diagram of our BPMN shows the process of our e-commerce website. It present
 - Select Product: Customers select the products they want.
 Add product to cart: After the customer has added the product to the cart. If the customer feels dissatisfied with the selected product. The customer can cancel or if the customer is interested or satisfied. will enter into payment.
 ![Digram img](img/6.png)
+![Digram img](img/8.png)
 - Payment process: Payment of the product selected by the customer. There will be a payment process. The customer must fill in customer information, including the customer's address, phone number, and other things in order to deliver the product to the customer.
+![Digram img](img/9.png)
 - Payment process or procedure: There will be 2 methods as two options. The first method is to transfer money via mobile phone called pay online. The second method of paying in cash is called cash on delivery. This way, we pay when our product arrives at our hands, which we do through thousands of couriers.
  ## Website pool
    ![Digram img](img/33.png)
