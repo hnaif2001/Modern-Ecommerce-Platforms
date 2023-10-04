@@ -30,7 +30,7 @@ The first thing we download WordPress, we log in. After logging into WordPress, 
 
 
 # BPMN Diagram
-![Digram img](img/11.png)
+![Digram img](img/77.png)
 This diagram of our BPMN shows the process of our e-commerce website. It presents important coordination or interactions and processes or procedures. About online trading It will make the launch of our online platform more experience or user friendly.
 
 ### All Pools in BPMN
@@ -66,6 +66,7 @@ Add product to cart: After the customer has added the product to the cart. If th
 - Confirm customer orders before arranging for delivery to the courier company.
 - Customer information and customer slips will be checked for accuracy before taking the package to the courier company.
 - Prepare to deliver customer products to the parcel delivery company.
+  ![Digram img](img/11.png)
  ## Delivery pool
    ![Digram img](img/55.png)
 - Receive customer products from the admin in order to import them into the parcel delivery company's process.
