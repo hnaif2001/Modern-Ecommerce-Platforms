@@ -15,7 +15,7 @@ Nowadays, there is a type of shopping called online shopping that allows for the
 
 **2.4 PDF Invoices & Packing Slips for WooCommerce:**[PDF Invoices & Packing Slips for WooCommerce](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/) Responsible for creating professional invoices and packing records for customer orders. This ensures a smooth and professional shopping experience.
 
-**2.5 CartFlows:** [CartFlows](https://cartflows.com) It is a shopping cart used to enhance the efficiency of our website smoothly or quickly.
+**2.5 My Sticky Elements:** [My Sticky Elements](https://premio.io/help/mystickyelements/?utm_source=wordpressorg) In order to have a conversation between us and our children in order to be comfortable when there are problems.
 
 # Visual Paradigm
 Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. About Visual Paradigm Visual Paradigm.
@@ -44,6 +44,7 @@ This diagram of our BPMN shows the process of our e-commerce website. It present
   ## Customer pool
   ![Digram img](img/22.png)
 - customer process Starting with a green dot It marks the beginning of the customer journey on the platform.
+- Whether to inquire or shop: There are two options when entering our website. First, customers will ask us about the product first. Before the customer orders, two, the customer will not ask us, but the customer will choose the product.
 - Find products: Customers will find products that they are interested in purchasing.
 - Select Product: Customers select the products they want.
 Add product to cart: After the customer has added the product to the cart. If the customer feels dissatisfied with the selected product. The customer can cancel or if the customer is interested or satisfied. will enter into payment
@@ -62,11 +63,12 @@ Add product to cart: After the customer has added the product to the cart. If th
 - Prepare to deliver customer products to the parcel delivery company.
  ## Delivery pool
    ![Digram img](img/55.png)
-- Will receive products to put the products of the sender into the system and update.
-- The system has successfully verified the product in the system and a parcel number will be sent.
-- The parcel will be delivered to the customer. At that time there will be an update on the customer's products.
-- For customers who pay on delivery, they can wait to receive their products from thousands of parcel delivery staff.
+- Receive customer products from the admin in order to import them into the parcel delivery company's process.
+- After receiving the package from the admin, the product will be entered into the system so that the information can be updated.
+- After the product has been successfully entered into the system, a parcel number will be issued.
+- After getting the parcel number, it will be sent to the admin. and then deliver the product
  ## Delivery status
+  ![Digram img](img/44.png)
  - When our products leave the courier company, we must wait at least three days for the products to arrive. Whether we pay via mobile phone or pay on delivery, we must wait no more than three days.
 ## Summary
 - Using an e-commerce website is one way to tap into the digital transformation of the online world. Easy to use for many people and user-friendly, WordPress and Woocommerce have a lot of accessibility when it comes to careful deployment and use of each plugin.
