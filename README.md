@@ -26,9 +26,6 @@ The first thing we download WordPress, we log in. After logging into WordPress, 
 ![Digram img](img/1.png)
 ![Digram img](img/2.png)
 ![Digram img](img/3.png)
-![Digram img](img/4.png)
-![Digram img](img/5.png)
-![Digram img](img/6.png)
 ![Digram img](img/7.png)
 
 # BPMN Diagram
@@ -45,17 +42,21 @@ This diagram of our BPMN shows the process of our e-commerce website. It present
   ![Digram img](img/22.png)
 - customer process Starting with a green dot It marks the beginning of the customer journey on the platform.
 - Whether to inquire or shop: There are two options when entering our website. First, customers will ask us about the product first. Before the customer orders, two, the customer will not ask us, but the customer will choose the product.
+![Digram img](img/5.png)
 - Find products: Customers will find products that they are interested in purchasing.
+![Digram img](img/4.png)
 - Select Product: Customers select the products they want.
-Add product to cart: After the customer has added the product to the cart. If the customer feels dissatisfied with the selected product. The customer can cancel or if the customer is interested or satisfied. will enter into payment
+Add product to cart: After the customer has added the product to the cart. If the customer feels dissatisfied with the selected product. The customer can cancel or if the customer is interested or satisfied. will enter into payment.
+![Digram img](img/6.png)
 - Payment process: Payment of the product selected by the customer. There will be a payment process. The customer must fill in customer information, including the customer's address, phone number, and other things in order to deliver the product to the customer.
 - Payment process or procedure: There will be 2 methods as two options. The first method is to transfer money via mobile phone called pay online. The second method of paying in cash is called cash on delivery. This way, we pay when our product arrives at our hands, which we do through thousands of couriers.
  ## Website pool
    ![Digram img](img/33.png)
-- Waiting to receive orders from children in order to check slips or check customer slips.
-- Receive slip: Check slip and confirm your order. This process when checking money withdrawals The customer payment division is correct. It will go into stock inspection and if there are any errors it will be canceled immediately.
-- Collect customer information: It is responsible for collecting customer information from every person who comes to use the service. When a customer has a problem, we will have information to inform that customer.
-- Collect ordering information: serves to collect information from customers who have ordered products with us.
+- Product information: We will take care of product information within the website and all products.
+- Web Information: Information about the website is maintained or monitored.inspection and if there are any errors it will be canceled immediately.
+- Receive orders: When there are products from customers, they will receive orders in order to continue the process.
+- Receive slip: The customer's spending slip will be received and will be examined further.
+- Chat: is a medium between customers and admins to chat in order to ask for details.
  ## Admin pool
   ![Digram img](img/44.png)
 - Confirm customer orders before arranging for delivery to the courier company.
@@ -68,7 +69,7 @@ Add product to cart: After the customer has added the product to the cart. If th
 - After the product has been successfully entered into the system, a parcel number will be issued.
 - After getting the parcel number, it will be sent to the admin. and then deliver the product
  ## Delivery status
-  ![Digram img](img/44.png)
+  ![Digram img](img/66.png)
  - When our products leave the courier company, we must wait at least three days for the products to arrive. Whether we pay via mobile phone or pay on delivery, we must wait no more than three days.
 ## Summary
 - Using an e-commerce website is one way to tap into the digital transformation of the online world. Easy to use for many people and user-friendly, WordPress and Woocommerce have a lot of accessibility when it comes to careful deployment and use of each plugin.
